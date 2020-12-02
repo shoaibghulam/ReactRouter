@@ -1,0 +1,25 @@
+nav{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 20px;
+  background-color:rgb(67, 4, 119);
+  color:#fff;
+  
+}
+.nav-link{
+   width:60%;
+  display: inline;
+  text-decoration: none;
+  z-index: auto;
+  overflow: hidden;
+  list-style-type: none;
+}
+.nav-link li{
+  float:left;
+  padding:10px 14px;
+  color:#fff;
+}
+.gallery-thumb{
+  padding:20px;
+}
